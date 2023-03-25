@@ -58,7 +58,7 @@ export const Settings = () => {
                     icon={<Icon variant={styles.chevron}>chevronRight</Icon>}
                     color="#214ff1"
                 >
-                    <option value="US">₹</option>
+                    <option value="US">IND</option>
                     <option value="EUR">EUR</option>
                     <option value="RUB">RUB</option>
                 </Select>
