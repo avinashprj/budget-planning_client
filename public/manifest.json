@@ -1,6 +1,6 @@
 {
-    "name": "Expense Manager",
-    "short_name": "Expense Manager",
+    "name": "Expenses Tracker Application",
+    "short_name": "Expense Tracker Application",
     "theme_color": "#000000",
     "background_color": "#000000",
     "display": "standalone",
